@@ -35,4 +35,4 @@ The coal wagon weight measurement system combines various components to facilita
 
 ### Contributors
 
-- [Bharath KUMAR V](https://github.com/bharathkumar0246) - Add your contributions here if you have contributed to the project.
+- [Amithesh sharavan S](https://github.com/Amithesh0107) 
